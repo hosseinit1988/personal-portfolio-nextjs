@@ -1,7 +1,7 @@
 # 🌐 وب‌سایت شخصی - Next.js
 
 <p align="center">
-  <img src="Screenshot.png" alt="Profile" width="300"/>
+  <img src="Screenshot.png" alt="Profile" width="500" height="500"/>
 </p>
 
 
