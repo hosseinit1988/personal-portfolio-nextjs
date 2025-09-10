@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌐 وب‌سایت شخصی - Next.js
 
-# Run and deploy your AI Studio app
+این مخزن شامل کد منبع وب‌سایت شخصی من است که با [Next.js](https://nextjs.org/) توسعه داده شده.  
+هدف این وب‌سایت معرفی من، نمایش نمونه‌کارها و انتشار مطالب است.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1qce7P73uYbMY10EpdLz3-N57QmrAaX2a
+## 🚀 ویژگی‌ها
+- طراحی مدرن و واکنش‌گرا (Responsive)
+- استفاده از **Next.js 13+** و **React**
+- پشتیبانی از **SEO** و متادیتا
+- بخش نمونه‌کارها (Portfolio)
+- صفحه‌ی وبلاگ / مقالات
+- بهینه‌سازی برای عملکرد بهتر
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🛠️ تکنولوژی‌ها
+- [Next.js](https://nextjs.org/)  
+- [React](https://react.dev/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [TypeScript](https://www.typescriptlang.org/) *(در صورت نیاز)*  
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ⚙️ نصب و راه‌اندازی
+
+برای اجرای پروژه نیاز به **Node.js نسخه 18 یا بالاتر** دارید.
+
+```bash
+# کلون کردن مخزن
+git clone https://github.com/username/repo-name.git
+
+# ورود به پوشه پروژه
+cd repo-name
+
+# نصب وابستگی‌ها
+npm install
+# یا
+yarn install
+# یا
+pnpm install
