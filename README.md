@@ -1,5 +1,9 @@
 # 🌐 وب‌سایت شخصی - Next.js
-<div align="center"></div><img src="profile.jpg" width="300" /></div>
+
+<p align="center">
+  <img src="Screenshot 2025-09-11 at 00-42-19 Hossein Shourgashti - Web Designer.jpg" alt="Profile" width="300"/>
+</p>
+
 
 این مخزن شامل کد منبع وب‌سایت شخصی من است که با [Next.js](https://nextjs.org/) توسعه داده شده.  
 هدف این وب‌سایت معرفی من، نمایش نمونه‌کارها و انتشار مطالب است.
