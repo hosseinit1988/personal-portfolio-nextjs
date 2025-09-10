@@ -1,7 +1,7 @@
 # 🌐 وب‌سایت شخصی - Next.js
 
 <p align="center">
-  <img src="/Screenshot 2025-09-11 at 00-42-19 Hossein Shourgashti - Web Designer.jpg" alt="Profile" width="300"/>
+  <img src="Screenshot.png" alt="Profile" width="300"/>
 </p>
 
 
