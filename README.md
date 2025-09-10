@@ -19,7 +19,7 @@
 - [Next.js](https://nextjs.org/)  
 - [React](https://react.dev/)  
 - [Tailwind CSS](https://tailwindcss.com/)  
-- [TypeScript](https://www.typescriptlang.org/) *(در صورت نیاز)*  
+- [TypeScript](https://www.typescriptlang.org/) 
 
 ---
 
@@ -29,7 +29,7 @@
 
 ```bash
 # کلون کردن مخزن
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/hosseinit1988/personal-portfolio-nextjs.git
 
 # ورود به پوشه پروژه
 cd repo-name
